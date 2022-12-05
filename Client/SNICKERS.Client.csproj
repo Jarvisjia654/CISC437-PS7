@@ -12,8 +12,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="6.0.10" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="Telerik.DataSource" Version="2.1.3" />
-    <PackageReference Include="Telerik.UI.for.Blazor" Version="3.7.0" />
+    <PackageReference Include="Telerik.DataSource.Trial" Version="2.1.3" />
+    <PackageReference Include="Telerik.UI.for.Blazor.Trial" Version="3.7.0" />
   </ItemGroup>
 
   <ItemGroup>

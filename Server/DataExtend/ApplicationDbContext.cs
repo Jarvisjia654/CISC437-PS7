@@ -15,7 +15,7 @@ namespace SNICKERS.Server.Data
         {
             base.OnModelCreating(builder);
 
-            builder.HasDefaultSchema("PS5")
+            builder.HasDefaultSchema("UD_YANHAOJ")
                 .HasAnnotation("Relational:Collation", "USING_NLS_COMP");
 
             builder.ToUpperCaseTables();

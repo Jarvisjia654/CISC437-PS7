@@ -32,7 +32,7 @@ namespace SNICKERS.EF.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.HasDefaultSchema("PS5")
+            modelBuilder.HasDefaultSchema("UD_YANHAOJ")
                 .UseCollation("USING_NLS_COMP");
 
             modelBuilder.Entity<Course>(entity =>
